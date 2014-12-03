@@ -4,7 +4,7 @@
   "description": "Tibbr authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "facebook",
+    "tibbr",
     "auth",
     "authn",
     "authentication",
